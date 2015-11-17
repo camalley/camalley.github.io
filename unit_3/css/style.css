@@ -1,0 +1,9 @@
+body {font-family: Arial; sans-serif;
+	background-color: white;
+}
+h1, h2 {color: #368E0D;
+}
+p, ul, li {color: #2B2B2B;
+}
+#slogan {font-style: italic;
+}
