@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:700);
+@import url(https://fonts.googleapis.com/css?family=Abel);
+body {font-family: Arial; sans-serif;
+	background-color: white;
+}
+h1, h2 {color: #368E0D;
+	font-family: 'Roboto Slab', serif;
+}
+p, ul, li {color: #2B2B2B;
+	font-family: 'Abel', sans-serif;
+}
+#slogan {font-style: italic;
+}
